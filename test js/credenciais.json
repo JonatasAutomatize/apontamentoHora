@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apontamento-de-hora",
+  "private_key_id": "dd296f6d88a181fd3b28d761b79812ba25b24628",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+QE5b3WFbZHK+\nNgWQeKswFWl2ZUEZnK5IK5POL5hfUFga4hVtBKu2gO6Ppf/Wa/HRrBf0gp8NcEQD\n2IHJB442ZcRZw3jNTTrJkj/UGTMSufGNTzKDhXtIi2sIAoLO6FokQmnwJcdmyNHI\n3DdND2TOZMWgBnUAaBPA7zw51QhyzC/Leud63UM4zniY0u6FHTGCRXslFsg1pJWT\nqUCSBVxNKY9IoQMIPp42MbgcyaKZajWgN88E+WQUa5vM6inyg1SMA03tcv+65Oul\nbAyZruR5hNwzJLl3LL0nhjg0djcrLb+1zBBwYGNlgJIH9N+lPV0SraZNr8yKuLlc\ngb99d2HjAgMBAAECggEAUdg1PYTnyJrWV+jCjQu0TVuwwnu9vUhvm2GP1OAZ00sr\nk+kV4Y/kVP9zYX2+qV5HqfU4WvpEdVIKGINwFez3q4QtK5aRZfSm6SdO6S4sEA7J\nEQr0hqsKRcOgeFIoNt2zRa0CiQqflSKoSRofejm4mqe0curEM7gSY2onxRNV7pgV\nxpAZilE6VcWMcvAesxA2R3791B7Tmjr9TuRDtMWymrxgpclMhC0l5vrdJcHj9NwV\noX+6QuCPcaxFYQpU4EUkOCMEy015XQvdnyrgTBZRM4JWS8kkguNMnqR/JN4v5r0v\na/GsZSGEAEiYFCYugRBjTrhCGPo/Ccd4Ne2ZYr1mLQKBgQDeWeJrIlRQNWCl4LB1\naAunqhS2XzCSLxkaaW8pEsfrsfqijZgo5PXID9zwSFQUa9VTdOyx26Jf+bppIHml\n7DUl5sh07n1HAofVFXC5NbLagGEgzWLzLcx7HKevcIMc/DTZmiCGvu4K4GX/Wwzo\nDD+05rx/9/jxbjgfPLB3SfWenQKBgQDbCtZTKeyhGgxxBspbxii4rYQd1ZHzPakH\nBbqQuac4PfU/uvnd/0H4o6zTHrPNV2+a7QOlhWL2aMry2xPbyG7yp7mIrxthOoZe\ni2/qJd3RV5crUDAMvSh+D/+cR6GAXyaItXx4+6VEDPf0z530Lmeta0HJjC/wYZoV\n4MRYNfzafwKBgQCgznbOrnw1qfTk4nQb5QyQzJPANWWmQ4OvM1NebCPEFOrDxw2l\nfbk3YCmUaWrNfhNBEU3hb4umR7CGOSNhWUwyxg5xas2VnoHoHGJywCBCoBgepguK\n/bNl0hp/6ioYu1npies+KDV2DkYWAJ577+ffCASJtCgJS4IxLS4eh5GojQKBgGto\nPQA6ppW4uDEUK1YlLQKh0w7uEss7iQ6weHNPFfg2KXQ+sxdwe2D4oV5Ex9YA8fD+\nF7OqXISHjjzXwD0dY4oJRKkJdFuQ3yKtLQub1dE5Kh9LCsS0XI60OZrgZQkVn0eZ\n9pc8jiV4Vn3s8H8z4hLfbTrvSvKMaYog1SaMEpjxAoGBAK4hO2cBsuuzujSeujKj\nKmjekpYcucrF6jPr4MATNEcPvZ7dxVZn/domUZvGhiglgzQpACNeBXQs2hQscMU1\nF0qUkR6TGNUou4CM8YGjAg9UKSJzjFAomO+yig3KN6QydAhmUZGwlZXN39cFzWiK\n5TUk3yaVK6wq8aXvWFCAb585\n-----END PRIVATE KEY-----\n",
+  "client_email": "integracao@apontamento-de-hora.iam.gserviceaccount.com",
+  "client_id": "111853104098685435090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/integracao%40apontamento-de-hora.iam.gserviceaccount.com"
+}
